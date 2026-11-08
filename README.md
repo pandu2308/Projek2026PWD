@@ -1,7 +1,7 @@
 # InventoriKu
 
 **Mata kuliah:** Pemrograman Web Dinamis 2026  
-**Kelompok:** Tim InventoriKu  
+**Kelompok:** Tim BitByBit (Sedikit demi sedikit, lama-lama project-nya selesai)  
 **Repositori:** [pandu2308/Projek2026PWD](https://github.com/pandu2308/Projek2026PWD)  
 **Tahap:** Perencanaan Milestone 1
 
