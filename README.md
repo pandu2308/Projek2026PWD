@@ -7,7 +7,7 @@
 
 README ini menjadi acuan pengembangan kelompok. Struktur folder, fitur, dan hasil tugas di bawah merupakan rencana implementasi.
 
-Tim InventoriKu merencanakan aplikasi pengelolaan persediaan barang berbasis web. Dokumen ini menjadi acuan identitas kelompok, fitur awal, desain data, struktur proyek, dan pembagian pekerjaan. Target Milestone 1 adalah login, pengaturan hak akses, manajemen pengguna, profil, dan pencatatan aktivitas.
+Tim BitByBit merencanakan aplikasi pengelolaan persediaan barang berbasis web. Dokumen ini menjadi acuan identitas kelompok, fitur awal, desain data, struktur proyek, dan pembagian pekerjaan. Target Milestone 1 adalah login, pengaturan hak akses, manajemen pengguna, profil, dan pencatatan aktivitas.
 
 ## 1 Identitas kelompok
 
@@ -18,7 +18,7 @@ Tim InventoriKu merencanakan aplikasi pengelolaan persediaan barang berbasis web
 | Betrand Erlangga | 2400018294 | Pengembang database dan audit aktivitas |
 | Erlangga putra A | 2400018274 | Pengembang halaman pendukung dan penguji integrasi |
 
-Nama kelompok: Tim InventoriKu. Akun GitHub proyek: pandu2308.
+Nama kelompok: Tim BitByBit. Akun GitHub proyek: pandu2308.
 
 ## 2 Rancangan aplikasi
 
