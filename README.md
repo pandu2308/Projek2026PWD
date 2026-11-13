@@ -1,4 +1,4 @@
-# InventoriKu
+# Dompetku
 
 **Mata kuliah:** Pemrograman Web Dinamis 2026  
 **Kelompok:** Tim BitByBit (Sedikit demi sedikit, lama-lama project-nya selesai)  
