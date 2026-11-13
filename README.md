@@ -22,7 +22,7 @@ Nama kelompok: Tim BitByBit. Akun GitHub proyek: pandu2308.
 
 ## 2 Rancangan aplikasi
 
-Nama aplikasi: InventoriKu. Aplikasi ini ditujukan untuk gudang atau usaha yang membutuhkan pencatatan barang, pemantauan stok, dan pengaturan akses pengguna. Data yang dikelola dalam pengembangan berikutnya meliputi kategori, barang, stok masuk, stok keluar, dan laporan persediaan.
+Nama aplikasi: Dompetku. Aplikasi ini ditujukan untuk gudang atau usaha yang membutuhkan pencatatan barang, pemantauan stok, dan pengaturan akses pengguna. Data yang dikelola dalam pengembangan berikutnya meliputi kategori, barang, stok masuk, stok keluar, dan laporan persediaan.
 
 ### Tujuan aplikasi
 
